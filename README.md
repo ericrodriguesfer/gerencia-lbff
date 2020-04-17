@@ -15,14 +15,14 @@ O projeto consiste em um sistema web, sistema esse que foi implementado para rea
 ## VEJA ALGUMAS FOTOS DE COMO FICOU A INTERFACE DO PROJETO
 
 ![Print 1 da aplicação](https://github.com/ericrodriguesfer/utilities-readme/blob/master/gerencia-lbff/img-1.png)
-![Print 2 da aplicação](https://github.com/ericrodriguesfer/utilities-readme/blob/master/gerencia-lbff/img-2png)
-![Print 3 da aplicação](https://github.com/ericrodriguesfer/utilities-readme/blob/master/gerencia-lbff/img-3png)
-![Print 4 da aplicação](https://github.com/ericrodriguesfer/utilities-readme/blob/master/gerencia-lbff/img-4png)
-![Print 5 da aplicação](https://github.com/ericrodriguesfer/utilities-readme/blob/master/gerencia-lbff/img-5png)
-![Print 6 da aplicação](https://github.com/ericrodriguesfer/utilities-readme/blob/master/gerencia-lbff/img-6png)
-![Print 7 da aplicação](https://github.com/ericrodriguesfer/utilities-readme/blob/master/gerencia-lbff/img-7png)
-![Print 8 da aplicação](https://github.com/ericrodriguesfer/utilities-readme/blob/master/gerencia-lbff/img-8png)
-![Print 9 da aplicação](https://github.com/ericrodriguesfer/utilities-readme/blob/master/gerencia-lbff/img-9png)
+![Print 2 da aplicação](https://github.com/ericrodriguesfer/utilities-readme/blob/master/gerencia-lbff/img-2.png)
+![Print 3 da aplicação](https://github.com/ericrodriguesfer/utilities-readme/blob/master/gerencia-lbff/img-3.png)
+![Print 4 da aplicação](https://github.com/ericrodriguesfer/utilities-readme/blob/master/gerencia-lbff/img-4.png)
+![Print 5 da aplicação](https://github.com/ericrodriguesfer/utilities-readme/blob/master/gerencia-lbff/img-5.png)
+![Print 6 da aplicação](https://github.com/ericrodriguesfer/utilities-readme/blob/master/gerencia-lbff/img-6.png)
+![Print 7 da aplicação](https://github.com/ericrodriguesfer/utilities-readme/blob/master/gerencia-lbff/img-7.png)
+![Print 8 da aplicação](https://github.com/ericrodriguesfer/utilities-readme/blob/master/gerencia-lbff/img-8.png)
+![Print 9 da aplicação](https://github.com/ericrodriguesfer/utilities-readme/blob/master/gerencia-lbff/img-9.png)
 
 ## CASO QUEIRA SABER MAIS SOBRE O PROJETO
 
